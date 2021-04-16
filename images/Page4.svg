@@ -1,0 +1,284 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="2419" viewBox="0 0 1920 2419">
+  <defs>
+    <clipPath id="clip-Page_4">
+      <rect width="1920" height="2419"/>
+    </clipPath>
+  </defs>
+  <g id="Page_4" data-name="Page 4" clip-path="url(#clip-Page_4)">
+    <rect width="1920" height="2419" fill="#fff"/>
+    <rect id="Base" width="1920" height="70" fill="#2699fb"/>
+    <text id="PRODUCTS" transform="translate(415 39)" fill="#fff" font-size="10" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">PRODUCTS</tspan></text>
+    <text id="ABOUT" transform="translate(545 39)" fill="#fff" font-size="10" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">ABOUT</tspan></text>
+    <text id="CONTACT" transform="translate(648 39)" fill="#fff" font-size="10" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">CONTACT</tspan></text>
+    <g id="more" transform="translate(1880 27)">
+      <rect id="Rectangle_449" data-name="Rectangle 449" width="16" height="16" fill="none"/>
+      <path id="Union_1" data-name="Union 1" d="M0,13.5A1.5,1.5,0,1,1,1.5,15,1.5,1.5,0,0,1,0,13.5Zm0-6A1.5,1.5,0,1,1,1.5,9,1.5,1.5,0,0,1,0,7.5Zm0-6A1.5,1.5,0,1,1,1.5,3,1.5,1.5,0,0,1,0,1.5Z" transform="translate(7 1)" fill="#2699fb"/>
+    </g>
+    <text id="LO" transform="translate(84 135)" fill="#fff" font-size="11" font-family="'\.AppleSystemUIFont'"><tspan x="0" y="0">LO</tspan></text>
+    <text id="THOMSEN_GROUP" data-name="THOMSEN GROUP" transform="translate(79 42)" fill="#fff" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.074em"><tspan x="0" y="0">THOMSEN GROUP</tspan></text>
+    <g id="Component_11_1" data-name="Component 11 – 1" transform="translate(1821.413 25.413)">
+      <rect id="Rectangle_392" data-name="Rectangle 392" width="20" height="20" transform="translate(-0.413 -0.413)" fill="none"/>
+      <path id="Path_1" data-name="Path 1" d="M86.638,19.587V10.664h3.047l.435-3.482H86.638V5.006c0-.979.326-1.741,1.741-1.741h1.85V.109C89.794.109,88.705,0,87.508,0a4.2,4.2,0,0,0-4.462,4.57V7.182H80v3.482h3.047v8.923Z" transform="translate(-75.103 0.001)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <g id="Component_12_1" data-name="Component 12 – 1" transform="translate(1752.238 25.413)">
+      <rect id="Rectangle_393" data-name="Rectangle 393" width="20" height="20" transform="translate(-0.239 -0.413)" fill="none"/>
+      <path id="Path_2" data-name="Path 2" d="M44.2,17.887A11.324,11.324,0,0,0,55.628,6.462V5.917A8.845,8.845,0,0,0,57.587,3.85,9.033,9.033,0,0,1,55.3,4.5a4.234,4.234,0,0,0,1.741-2.176,9.981,9.981,0,0,1-2.5.979A3.886,3.886,0,0,0,51.6,2a4.088,4.088,0,0,0-4.026,4.026,2.121,2.121,0,0,0,.109.871,11.251,11.251,0,0,1-8.27-4.244,4.167,4.167,0,0,0-.544,2.068,4.323,4.323,0,0,0,1.741,3.373,3.668,3.668,0,0,1-1.85-.544h0a3.977,3.977,0,0,0,3.265,3.917,3.355,3.355,0,0,1-1.088.109,1.852,1.852,0,0,1-.762-.109A4.122,4.122,0,0,0,43.985,14.3a8.216,8.216,0,0,1-5.006,1.741A3.013,3.013,0,0,1,38,15.929a10.271,10.271,0,0,0,6.2,1.959" transform="translate(-38 0.448)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <g id="Component_13_1" data-name="Component 13 – 1" transform="translate(1678.167 25.413)">
+      <path id="Path_3" data-name="Path 3" d="M9.794,1.741a30.029,30.029,0,0,1,3.917.109,5.047,5.047,0,0,1,1.85.326,3.822,3.822,0,0,1,1.85,1.85,5.047,5.047,0,0,1,.326,1.85c0,.979.109,1.306.109,3.917a30.029,30.029,0,0,1-.109,3.917,5.047,5.047,0,0,1-.326,1.85,3.822,3.822,0,0,1-1.85,1.85,5.047,5.047,0,0,1-1.85.326c-.979,0-1.306.109-3.917.109a30.029,30.029,0,0,1-3.917-.109,5.047,5.047,0,0,1-1.85-.326,3.822,3.822,0,0,1-1.85-1.85,5.047,5.047,0,0,1-.326-1.85c0-.979-.109-1.306-.109-3.917A30.029,30.029,0,0,1,1.85,5.876a5.047,5.047,0,0,1,.326-1.85,3.908,3.908,0,0,1,.762-1.088,1.84,1.84,0,0,1,1.088-.762,5.047,5.047,0,0,1,1.85-.326,30.029,30.029,0,0,1,3.917-.109M9.794,0A32.153,32.153,0,0,0,5.767.109,6.718,6.718,0,0,0,3.373.544,4.26,4.26,0,0,0,1.632,1.632,4.26,4.26,0,0,0,.544,3.373,4.958,4.958,0,0,0,.109,5.767,32.153,32.153,0,0,0,0,9.794,32.153,32.153,0,0,0,.109,13.82a6.718,6.718,0,0,0,.435,2.394,4.26,4.26,0,0,0,1.088,1.741,4.26,4.26,0,0,0,1.741,1.088,6.718,6.718,0,0,0,2.394.435,32.152,32.152,0,0,0,4.026.109,32.153,32.153,0,0,0,4.026-.109,6.718,6.718,0,0,0,2.394-.435,4.565,4.565,0,0,0,2.829-2.829,6.718,6.718,0,0,0,.435-2.394c0-1.088.109-1.415.109-4.026a32.152,32.152,0,0,0-.109-4.026,6.718,6.718,0,0,0-.435-2.394,4.26,4.26,0,0,0-1.088-1.741A4.26,4.26,0,0,0,16.214.544,6.718,6.718,0,0,0,13.82.109,32.153,32.153,0,0,0,9.794,0m0,4.788A4.925,4.925,0,0,0,4.788,9.794,5.006,5.006,0,1,0,9.794,4.788m0,8.27A3.206,3.206,0,0,1,6.529,9.794,3.206,3.206,0,0,1,9.794,6.529a3.206,3.206,0,0,1,3.265,3.265,3.206,3.206,0,0,1-3.265,3.265m5.223-9.685a1.2,1.2,0,1,0,1.2,1.2,1.208,1.208,0,0,0-1.2-1.2" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(227 475)" fill="#fff" stroke="#b9b9b9" stroke-width="1">
+      <rect width="423" height="277" rx="4" stroke="none"/>
+      <rect x="-0.5" y="-0.5" width="424" height="278" rx="4.5" fill="none"/>
+    </g>
+    <g id="Rectangle_481" data-name="Rectangle 481" transform="translate(226 838)" fill="#fff" stroke="#b9b9b9" stroke-width="1">
+      <rect width="569" height="52" rx="4" stroke="none"/>
+      <rect x="-0.5" y="-0.5" width="570" height="53" rx="4.5" fill="none"/>
+    </g>
+    <g id="Rectangle_488" data-name="Rectangle 488" transform="translate(599 907)" fill="none" stroke="#b9b9b9" stroke-width="1">
+      <path d="M0,0H103a4,4,0,0,1,4,4V311a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M0-.5H103A4.5,4.5,0,0,1,107.5,4V311a4.5,4.5,0,0,1-4.5,4.5H4A4.5,4.5,0,0,1-.5,311V0A.5.5,0,0,1,0-.5Z" fill="none"/>
+    </g>
+    <g id="Rectangle_507" data-name="Rectangle 507" transform="translate(599 1239)" fill="none" stroke="#b9b9b9" stroke-width="1">
+      <path d="M0,0H193a4,4,0,0,1,4,4v97a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M0-.5H193A4.5,4.5,0,0,1,197.5,4v97a4.5,4.5,0,0,1-4.5,4.5H4A4.5,4.5,0,0,1-.5,101V0A.5.5,0,0,1,0-.5Z" fill="none"/>
+    </g>
+    <g id="Rectangle_519" data-name="Rectangle 519" transform="translate(599 1361)" fill="none" stroke="#b9b9b9" stroke-width="1">
+      <path d="M0,0H340a4,4,0,0,1,4,4V489a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M0-.5H340A4.5,4.5,0,0,1,344.5,4V489a4.5,4.5,0,0,1-4.5,4.5H4A4.5,4.5,0,0,1-.5,489V0A.5.5,0,0,1,0-.5Z" fill="none"/>
+    </g>
+    <g id="Rectangle_506" data-name="Rectangle 506" transform="translate(226 907)" fill="none" stroke="#b9b9b9" stroke-width="1">
+      <path d="M4,0H476a4,4,0,0,1,4,4V52a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" stroke="none"/>
+      <path d="M4-.5H476A4.5,4.5,0,0,1,480.5,4V52a.5.5,0,0,1-.5.5H4A4.5,4.5,0,0,1-.5,48V4A4.5,4.5,0,0,1,4-.5Z" fill="none"/>
+    </g>
+    <g id="Rectangle_508" data-name="Rectangle 508" transform="translate(227 1239)" fill="none" stroke="#b9b9b9" stroke-width="1">
+      <path d="M4,0H565a4,4,0,0,1,4,4V52a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" stroke="none"/>
+      <path d="M4-.5H565A4.5,4.5,0,0,1,569.5,4V52a.5.5,0,0,1-.5.5H4A4.5,4.5,0,0,1-.5,48V4A4.5,4.5,0,0,1,4-.5Z" fill="none"/>
+    </g>
+    <g id="Rectangle_520" data-name="Rectangle 520" transform="translate(227 1361)" fill="none" stroke="#b9b9b9" stroke-width="1">
+      <path d="M4,0H712a4,4,0,0,1,4,4V52a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" stroke="none"/>
+      <path d="M4-.5H712A4.5,4.5,0,0,1,716.5,4V52a.5.5,0,0,1-.5.5H4A4.5,4.5,0,0,1-.5,48V4A4.5,4.5,0,0,1,4-.5Z" fill="none"/>
+    </g>
+    <rect id="Rectangle_478" data-name="Rectangle 478" width="279" height="0.877" transform="translate(279.561 753) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_486" data-name="Rectangle 486" width="52" height="0.877" transform="translate(278.561 890) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_491" data-name="Rectangle 491" width="52" height="0.877" transform="translate(278.561 959) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_518" data-name="Rectangle 518" width="52" height="0.877" transform="translate(278.561 1291) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_524" data-name="Rectangle 524" width="52" height="0.877" transform="translate(280.561 1413) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_480" data-name="Rectangle 480" width="279" height="0.877" transform="translate(449.561 753.5) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_482" data-name="Rectangle 482" width="52" height="0.877" transform="translate(598.561 890) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_494" data-name="Rectangle 494" width="107.438" height="0.877" transform="translate(556 959.877) rotate(180)" fill="#bcbcbc"/>
+    <rect id="Rectangle_509" data-name="Rectangle 509" width="107.438" height="0.877" transform="translate(556 1291.877) rotate(180)" fill="#bcbcbc"/>
+    <rect id="Rectangle_521" data-name="Rectangle 521" width="107.438" height="0.877" transform="translate(558 1413.877) rotate(180)" fill="#bcbcbc"/>
+    <rect id="Rectangle_495" data-name="Rectangle 495" width="107.438" height="0.877" transform="translate(706 1012.877) rotate(180)" fill="#bcbcbc"/>
+    <rect id="Rectangle_497" data-name="Rectangle 497" width="107.438" height="0.877" transform="translate(706 1065.877) rotate(180)" fill="#bcbcbc"/>
+    <rect id="Rectangle_499" data-name="Rectangle 499" width="107.438" height="0.877" transform="translate(706 1118.877) rotate(180)" fill="#bcbcbc"/>
+    <rect id="Rectangle_501" data-name="Rectangle 501" width="107.438" height="0.877" transform="translate(706 1170.877) rotate(180)" fill="#bcbcbc"/>
+    <rect id="Rectangle_487" data-name="Rectangle 487" width="52" height="0.877" transform="translate(652.561 890) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_490" data-name="Rectangle 490" width="52" height="0.877" transform="translate(652.561 959) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_511" data-name="Rectangle 511" width="52" height="0.877" transform="translate(652.561 1291) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_522" data-name="Rectangle 522" width="52" height="0.877" transform="translate(652.561 1413) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_525" data-name="Rectangle 525" width="52" height="0.877" transform="translate(706 1412.5) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_493" data-name="Rectangle 493" width="52" height="0.877" transform="translate(652.561 1012) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_512" data-name="Rectangle 512" width="52" height="0.877" transform="translate(652.561 1344) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_523" data-name="Rectangle 523" width="52" height="0.877" transform="translate(652.561 1465) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_528" data-name="Rectangle 528" width="81.583" height="0.877" transform="translate(652.561 1547.583) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_531" data-name="Rectangle 531" width="102.931" height="0.877" transform="translate(652.561 1648.932) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_534" data-name="Rectangle 534" width="102.931" height="0.877" transform="translate(652.561 1751.932) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_537" data-name="Rectangle 537" width="102.931" height="0.877" transform="translate(652.561 1854.932) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_527" data-name="Rectangle 527" width="344.438" height="0.877" transform="translate(943 1465.877) rotate(-180)" fill="#bcbcbc"/>
+    <rect id="Rectangle_530" data-name="Rectangle 530" width="344.438" height="0.877" transform="translate(943 1546.877) rotate(-180)" fill="#bcbcbc"/>
+    <rect id="Rectangle_533" data-name="Rectangle 533" width="344.438" height="0.877" transform="translate(943 1648.877) rotate(-180)" fill="#bcbcbc"/>
+    <rect id="Rectangle_535" data-name="Rectangle 535" width="344.438" height="0.877" transform="translate(943 1751.877) rotate(-180)" fill="#bcbcbc"/>
+    <rect id="Rectangle_526" data-name="Rectangle 526" width="52" height="0.877" transform="translate(706 1465.5) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_529" data-name="Rectangle 529" width="81.583" height="0.877" transform="translate(705.999 1548.083) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_532" data-name="Rectangle 532" width="102.931" height="0.877" transform="translate(705.999 1649.432) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_536" data-name="Rectangle 536" width="102.931" height="0.877" transform="translate(705.999 1752.432) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_539" data-name="Rectangle 539" width="102.931" height="0.877" transform="translate(705.999 1855.432) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_496" data-name="Rectangle 496" width="52" height="0.877" transform="translate(652.561 1065) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_498" data-name="Rectangle 498" width="52" height="0.877" transform="translate(652.561 1118) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_500" data-name="Rectangle 500" width="52" height="0.877" transform="translate(652.561 1170) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_505" data-name="Rectangle 505" width="52" height="0.877" transform="translate(652.561 1222) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_6" data-name="Rectangle 6" width="423" height="1" transform="translate(227 568)" fill="#bcbcbc"/>
+    <text id="_2" data-name="2" transform="translate(247 550)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">2</tspan></text>
+    <text id="Line_Size" data-name="Line Size" transform="translate(299 551)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Line Size</tspan></text>
+    <rect id="Rectangle_6-2" data-name="Rectangle 6" width="422" height="1" transform="translate(227 663)" fill="#bcbcbc"/>
+    <rect id="Rectangle_476" data-name="Rectangle 476" width="422" height="1" transform="translate(228 708)" fill="#bcbcbc"/>
+    <text id="_4" data-name="4" transform="translate(247 645)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">4</tspan></text>
+    <text id="_5" data-name="5" transform="translate(248 690)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">5</tspan></text>
+    <text id="_6" data-name="6" transform="translate(248 735)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">6</tspan></text>
+    <text id="Style" transform="translate(299 646)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Style</tspan></text>
+    <rect id="Rectangle_6-3" data-name="Rectangle 6" width="423" height="1" transform="translate(227 523)" fill="#bcbcbc"/>
+    <text id="_1" data-name="1" transform="translate(247 505)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">1</tspan></text>
+    <text id="_1-2" data-name="1" transform="translate(246 871)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">1</tspan></text>
+    <text id="_2-2" data-name="2" transform="translate(246 940)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">2</tspan></text>
+    <text id="_3" data-name="3" transform="translate(246 1272)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">3</tspan></text>
+    <text id="_4-2" data-name="4" transform="translate(248 1394)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">4</tspan></text>
+    <text id="Part_Name" data-name="Part Name" transform="translate(299 506)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Part Name</tspan></text>
+    <text id="Part_Name-2" data-name="Part Name" transform="translate(298 872)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Part Name</tspan></text>
+    <text id="Line_Size-2" data-name="Line Size" transform="translate(298 941)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Line Size</tspan></text>
+    <text id="Type_Connections" data-name="Type Connections" transform="translate(298 1273)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Type Connections</tspan></text>
+    <text id="Style-2" data-name="Style" transform="translate(300 1395)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Style</tspan></text>
+    <text id="Assumes_TriClamp_ends._If_butt_weld_ends_add_W_So_Style_20_TriClamp_ends_Style_20W_butt_weld_ends" data-name="Assumes TriClamp ends.
+
+If butt weld ends, add “W”
+So, Style 20 = TriClamp ends
+Style 20W =butt weld ends" transform="translate(298 1452)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Assumes TriClamp ends.</tspan><tspan x="0" y="24"></tspan><tspan x="0" y="48">If butt weld ends, add “W”</tspan><tspan x="0" y="72">So, Style 20 = TriClamp ends</tspan><tspan x="0" y="96">Style 20W =butt weld ends</tspan></text>
+    <rect id="Rectangle_6-4" data-name="Rectangle 6" width="422" height="1" transform="translate(227 617)" fill="#bcbcbc"/>
+    <text id="_3-2" data-name="3" transform="translate(247 599)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">3</tspan></text>
+    <text id="Type_Connection" data-name="Type Connection" transform="translate(299 600)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Type Connection</tspan></text>
+    <rect id="Base-2" data-name="Base" width="1920" height="98" transform="translate(0 70)" fill="#105ec1"/>
+    <text id="How_to_Order_SJ3a_Swivel_joint_part_number_encoding_system" data-name="How to Order SJ3a Swivel joint part number encoding system" transform="translate(79 138)" fill="#fff" font-size="32" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">How To Order SJ3A Swivel Joint Part Number Encoding System</tspan></text>
+    <text id="SUMMARY" transform="translate(227 451)" fill="#2699fb" font-size="25" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">SUMMARY</tspan></text>
+    <text id="DEtail" transform="translate(226 817)" fill="#2699fb" font-size="25" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">DETAIL</tspan></text>
+    <g id="Group_14" data-name="Group 14" transform="translate(0 -209)">
+      <rect id="Base-3" data-name="Base" width="1920" height="200" transform="translate(0 2431)" fill="#2699fb"/>
+      <text id="_THOMSEN_GROUP" data-name="© THOMSEN GROUP" transform="translate(1841 2605)" fill="#fff" font-size="10" font-family="ArialMT, Arial"><tspan x="-99.414" y="0">© THOMSEN GROUP</tspan></text>
+      <g id="social" transform="translate(1740 2474.38)">
+        <g id="Component_11_1-2" data-name="Component 11 – 1" transform="translate(83.381 0.001)">
+          <rect id="Rectangle_392-2" data-name="Rectangle 392" width="20" height="20" transform="translate(-0.381 -0.381)" fill="none"/>
+          <path id="Path_1-2" data-name="Path 1" d="M86.649,19.619V10.681H89.7l.436-3.488H86.649V5.014c0-.981.327-1.744,1.744-1.744h1.853V.109C89.81.109,88.72,0,87.521,0a4.207,4.207,0,0,0-4.469,4.578V7.194H80v3.488h3.052v8.938Z" transform="translate(-75.095 0.001)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+        <g id="Component_12_1-2" data-name="Component 12 – 1" transform="translate(44.143 0.001)">
+          <rect id="Rectangle_393-2" data-name="Rectangle 393" width="20" height="20" transform="translate(-0.143 -0.381)" fill="none"/>
+          <path id="Path_2-2" data-name="Path 2" d="M44.213,17.913A11.343,11.343,0,0,0,55.657,6.469V5.924a8.86,8.86,0,0,0,1.962-2.071,9.048,9.048,0,0,1-2.289.654,4.241,4.241,0,0,0,1.744-2.18,10,10,0,0,1-2.507.981A3.893,3.893,0,0,0,51.624,2a4.1,4.1,0,0,0-4.033,4.033A2.125,2.125,0,0,0,47.7,6.9a11.269,11.269,0,0,1-8.284-4.251,4.174,4.174,0,0,0-.545,2.071A4.33,4.33,0,0,0,40.616,8.1a3.674,3.674,0,0,1-1.853-.545h0a3.983,3.983,0,0,0,3.27,3.924,3.36,3.36,0,0,1-1.09.109,1.855,1.855,0,0,1-.763-.109,4.129,4.129,0,0,0,3.815,2.834,8.229,8.229,0,0,1-5.014,1.744A3.018,3.018,0,0,1,38,15.951a10.288,10.288,0,0,0,6.213,1.962" transform="translate(-38 0.452)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+        <g id="Component_13_1-2" data-name="Component 13 – 1" transform="translate(0 0.001)">
+          <path id="Path_3-2" data-name="Path 3" d="M9.81,1.744a30.078,30.078,0,0,1,3.924.109,5.055,5.055,0,0,1,1.853.327,3.828,3.828,0,0,1,1.853,1.853,5.055,5.055,0,0,1,.327,1.853c0,.981.109,1.308.109,3.924a30.078,30.078,0,0,1-.109,3.924,5.055,5.055,0,0,1-.327,1.853,3.828,3.828,0,0,1-1.853,1.853,5.055,5.055,0,0,1-1.853.327c-.981,0-1.308.109-3.924.109a30.078,30.078,0,0,1-3.924-.109,5.055,5.055,0,0,1-1.853-.327A3.828,3.828,0,0,1,2.18,15.586a5.055,5.055,0,0,1-.327-1.853c0-.981-.109-1.308-.109-3.924a30.078,30.078,0,0,1,.109-3.924A5.055,5.055,0,0,1,2.18,4.033a3.915,3.915,0,0,1,.763-1.09,1.843,1.843,0,0,1,1.09-.763,5.055,5.055,0,0,1,1.853-.327A30.078,30.078,0,0,1,9.81,1.744M9.81,0A32.2,32.2,0,0,0,5.777.109a6.729,6.729,0,0,0-2.4.436,4.267,4.267,0,0,0-1.744,1.09A4.267,4.267,0,0,0,.545,3.379a4.966,4.966,0,0,0-.436,2.4A32.2,32.2,0,0,0,0,9.81a32.2,32.2,0,0,0,.109,4.033,6.729,6.729,0,0,0,.436,2.4,4.267,4.267,0,0,0,1.09,1.744,4.267,4.267,0,0,0,1.744,1.09,6.729,6.729,0,0,0,2.4.436,32.2,32.2,0,0,0,4.033.109,32.2,32.2,0,0,0,4.033-.109,6.729,6.729,0,0,0,2.4-.436,4.573,4.573,0,0,0,2.834-2.834,6.729,6.729,0,0,0,.436-2.4c0-1.09.109-1.417.109-4.033a32.2,32.2,0,0,0-.109-4.033,6.729,6.729,0,0,0-.436-2.4,4.267,4.267,0,0,0-1.09-1.744A4.267,4.267,0,0,0,16.24.545a6.729,6.729,0,0,0-2.4-.436A32.2,32.2,0,0,0,9.81,0m0,4.8A4.933,4.933,0,0,0,4.8,9.81,5.014,5.014,0,1,0,9.81,4.8m0,8.284A3.211,3.211,0,0,1,6.54,9.81,3.211,3.211,0,0,1,9.81,6.54a3.211,3.211,0,0,1,3.27,3.27,3.211,3.211,0,0,1-3.27,3.27m5.232-9.7a1.2,1.2,0,1,0,1.2,1.2,1.21,1.21,0,0,0-1.2-1.2" fill="#fff" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <text id="THOMSEN_GROUP-2" data-name="THOMSEN GROUP" transform="translate(79 2539)" fill="#fff" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.074em"><tspan x="0" y="0">THOMSEN GROUP</tspan></text>
+      <text id="_262-652-2662" data-name="262-652-2662" transform="translate(329 2518)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">262-652-2662</tspan></text>
+      <text id="_1303_43rd_Street_Kenosha_WI_53140" data-name="1303 43rd Street
+Kenosha, WI 53140" transform="translate(329 2550)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">1303 43rd Street</tspan><tspan x="0" y="20">Kenosha, WI 53140</tspan></text>
+      <text id="CONTACT-2" data-name="CONTACT" transform="translate(639 2505)" fill="#fff" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">CONTACT</tspan></text>
+      <text id="PRODUCT" transform="translate(639 2573)" fill="#fff" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">PRODUCT</tspan></text>
+      <text id="ABOUT-2" data-name="ABOUT" transform="translate(639 2539)" fill="#fff" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">ABOUT</tspan></text>
+    </g>
+    <g id="Group_43" data-name="Group 43" transform="translate(24 -557)">
+      <rect id="Rectangle_474" data-name="Rectangle 474" width="328" height="96" transform="translate(201 815)" fill="#2699fb"/>
+      <text id="_-" data-name="-" transform="translate(417 846)" fill="#fff" font-size="22" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-4.302" y="0">-</tspan></text>
+      <g id="Group_42" data-name="Group 42" transform="translate(2 3)">
+        <text id="SJ" transform="translate(225 843)" fill="#fff" font-size="22" font-family="Roboto-Bold, Roboto" font-weight="700" text-decoration="underline"><tspan x="-13.256" y="0">SJ</tspan></text>
+        <text id="_1-3" data-name="1" transform="translate(225 890)" fill="#fff" font-size="22" font-family="Roboto-Regular, Roboto"><tspan x="-6.193" y="0">1</tspan></text>
+      </g>
+      <g id="Group_41" data-name="Group 41" transform="translate(20 3)">
+        <text id="_" data-name="#" transform="translate(260 843)" fill="#fff" font-size="22" font-family="Roboto-Bold, Roboto" font-weight="700" text-decoration="underline"><tspan x="-6.547" y="0">#</tspan></text>
+        <text id="_2-3" data-name="2" transform="translate(260 890)" fill="#fff" font-size="22" font-family="Roboto-Regular, Roboto"><tspan x="-6.193" y="0">2</tspan></text>
+      </g>
+      <g id="Group_40" data-name="Group 40" transform="translate(38 3)">
+        <text id="C" transform="translate(289 843)" fill="#fff" font-size="22" font-family="Roboto-Bold, Roboto" font-weight="700" text-decoration="underline"><tspan x="-7.031" y="0">C</tspan></text>
+        <text id="_3-3" data-name="3" transform="translate(289 890)" fill="#fff" font-size="22" font-family="Roboto-Regular, Roboto"><tspan x="-6.193" y="0">3</tspan></text>
+      </g>
+      <g id="Group_39" data-name="Group 39" transform="translate(57 3)">
+        <text id="_2-4" data-name="2" transform="translate(317 843)" fill="#fff" font-size="22" font-family="Roboto-Bold, Roboto" font-weight="700" text-decoration="underline"><tspan x="-6.311" y="0">2</tspan></text>
+        <text id="_4-3" data-name="4" transform="translate(317 890)" fill="#fff" font-size="22" font-family="Roboto-Regular, Roboto"><tspan x="-6.193" y="0">4</tspan></text>
+      </g>
+      <g id="Group_38" data-name="Group 38" transform="translate(93 3)">
+        <text id="_6-2" data-name="6" transform="translate(367 843)" fill="#fff" font-size="22" font-family="Roboto-Bold, Roboto" font-weight="700" text-decoration="underline"><tspan x="-6.311" y="0">6</tspan></text>
+        <text id="_5-2" data-name="5" transform="translate(367 890)" fill="#fff" font-size="22" font-family="Roboto-Regular, Roboto"><tspan x="-6.193" y="0">5</tspan></text>
+      </g>
+      <g id="Group_37" data-name="Group 37" transform="translate(110 3)">
+        <text id="S" transform="translate(396 843)" fill="#fff" font-size="22" font-family="Roboto-Bold, Roboto" font-weight="700" text-decoration="underline"><tspan x="-6.977" y="0">S</tspan></text>
+        <text id="_6-3" data-name="6" transform="translate(396 890)" fill="#fff" font-size="22" font-family="Roboto-Regular, Roboto"><tspan x="-6.193" y="0">6</tspan></text>
+      </g>
+    </g>
+    <text id="Steel" transform="translate(299 691)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Steel</tspan></text>
+    <text id="Face_Seal" data-name="Face Seal" transform="translate(298 736)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Face Seal</tspan></text>
+    <text id="_1_1.5_2_2.5_3_4" data-name="1, 1.5, 2, 2.5, 3, 4" transform="translate(469 551)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">1, 1.5, 2, 2.5, 3, 4</tspan></text>
+    <text id="_20_30_40_50_60_70" data-name="20, 30, 40, 50, 60, 70" transform="translate(469 646)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">20, 30, 40, 50, 60, 70</tspan></text>
+    <text id="Swivel_Joint_3A" data-name="Swivel Joint 3A" transform="translate(469 506)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Swivel Joint 3A</tspan></text>
+    <text id="SJ-2" data-name="SJ" transform="translate(618 872)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">SJ</tspan></text>
+    <text id="_10" data-name="10" transform="translate(618 941)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">10</tspan></text>
+    <text id="C-2" data-name="C" transform="translate(618 1273)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">C</tspan></text>
+    <text id="_2-5" data-name="2" transform="translate(618 1395)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">2</tspan></text>
+    <text id="_20" data-name="20" transform="translate(669 1395)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">20</tspan></text>
+    <text id="no_ells" data-name="no ells" transform="translate(722 1395)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">no ells</tspan></text>
+    <text id="ells_at_female_end" data-name="ells at female end" transform="translate(722 1448)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">ells at female end</tspan></text>
+    <text id="ells_at_female_end_" data-name="ells at female end," transform="translate(722 1500)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">ells at female end,</tspan></text>
+    <text id="ells_at_male_end" data-name="ells at male end" transform="translate(722 1524)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">ells at male end</tspan></text>
+    <text id="_2_SJ3A_connected_by" data-name="2 SJ3A connected by" transform="translate(722 1577)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">2 SJ3A connected by</tspan></text>
+    <text id="_2_SJ3A_connected_by-2" data-name="2 SJ3A connected by" transform="translate(722 1680)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">2 SJ3A connected by</tspan></text>
+    <text id="_2_SJ3A_connected_by-3" data-name="2 SJ3A connected by" transform="translate(722 1783)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">2 SJ3A connected by</tspan></text>
+    <text id="ells_at_female_end." data-name="ells at female end." transform="translate(722 1601)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">ells at female end.</tspan></text>
+    <text id="ells_at_female_end.-2" data-name="ells at female end." transform="translate(722 1704)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">ells at female end.</tspan></text>
+    <text id="ells_at_female_end.-3" data-name="ells at female end." transform="translate(722 1807)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">ells at female end.</tspan></text>
+    <text id="ells_at_one_male_end." data-name="ells at one male end." transform="translate(722 1625)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">ells at one male end.</tspan></text>
+    <text id="no_ells_at_male_end." data-name="no ells at male end." transform="translate(722 1728)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">no ells at male end.</tspan></text>
+    <text id="ells_at_male_end." data-name="ells at male end." transform="translate(722 1831)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">ells at male end.</tspan></text>
+    <text id="_15" data-name="15" transform="translate(618 994)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">15</tspan></text>
+    <text id="W" transform="translate(617 1326)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">W</tspan></text>
+    <text id="_3-4" data-name="3" transform="translate(617 1448)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">3</tspan></text>
+    <text id="_4-4" data-name="4" transform="translate(618 1501)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">4</tspan></text>
+    <text id="_5-3" data-name="5" transform="translate(617 1578)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">5</tspan></text>
+    <text id="_6-4" data-name="6" transform="translate(617 1681)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">6</tspan></text>
+    <text id="_7" data-name="7" transform="translate(617 1784)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">7</tspan></text>
+    <text id="_30" data-name="30" transform="translate(669 1448)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">30</tspan></text>
+    <text id="_40" data-name="40" transform="translate(669 1500)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">40</tspan></text>
+    <text id="_50" data-name="50" transform="translate(669 1578)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">50</tspan></text>
+    <text id="_60" data-name="60" transform="translate(669 1681)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">60</tspan></text>
+    <text id="_70" data-name="70" transform="translate(669 1784)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">70</tspan></text>
+    <text id="_20-2" data-name="20" transform="translate(618 1047)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">20</tspan></text>
+    <text id="_25" data-name="25" transform="translate(618 1100)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">25</tspan></text>
+    <text id="_30-2" data-name="30" transform="translate(618 1152)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">30</tspan></text>
+    <text id="_40-2" data-name="40" transform="translate(618 1204)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">40</tspan></text>
+    <text id="Tri-Clamp_butt_weld" data-name="Tri-Clamp, butt weld" transform="translate(469 600)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Tri-Clamp, butt weld</tspan></text>
+    <text id="_304_316L" data-name="304, 316L" transform="translate(469 691)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">304, 316L</tspan></text>
+    <text id="Silicone_EPDM_Buna" data-name="Silicone, EPDM, Buna" transform="translate(468 736)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Silicone, EPDM, Buna</tspan></text>
+    <text id="Swivel_Joint_3A-2" data-name="Swivel Joint 3A" transform="translate(672 871)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Swivel Joint 3A</tspan></text>
+    <text id="_1-4" data-name="1" transform="translate(672 940)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">1</tspan></text>
+    <text id="Tri-Clamp" transform="translate(672 1272)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Tri-Clamp</tspan></text>
+    <text id="_1.5" data-name="1.5" transform="translate(672 993)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">1.5</tspan></text>
+    <text id="Butt_weld" data-name="Butt weld" transform="translate(671 1325)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Butt weld</tspan></text>
+    <text id="_2-6" data-name="2" transform="translate(672 1046)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">2</tspan></text>
+    <text id="_2.5" data-name="2.5" transform="translate(672 1099)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">2.5</tspan></text>
+    <text id="_3-5" data-name="3" transform="translate(672 1151)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">3</tspan></text>
+    <text id="_4-5" data-name="4" transform="translate(672 1203)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">4</tspan></text>
+    <g id="Rectangle_540" data-name="Rectangle 540" transform="translate(598 1874)" fill="none" stroke="#b9b9b9" stroke-width="1">
+      <path d="M0,0H193a4,4,0,0,1,4,4v97a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M0-.5H193A4.5,4.5,0,0,1,197.5,4v97a4.5,4.5,0,0,1-4.5,4.5H4A4.5,4.5,0,0,1-.5,101V0A.5.5,0,0,1,0-.5Z" fill="none"/>
+    </g>
+    <g id="Rectangle_546" data-name="Rectangle 546" transform="translate(598 2004)" fill="none" stroke="#b9b9b9" stroke-width="1">
+      <path d="M0,0H193a4,4,0,0,1,4,4V152a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V0A0,0,0,0,1,0,0Z" stroke="none"/>
+      <path d="M0-.5H193A4.5,4.5,0,0,1,197.5,4V152a4.5,4.5,0,0,1-4.5,4.5H4A4.5,4.5,0,0,1-.5,152V0A.5.5,0,0,1,0-.5Z" fill="none"/>
+    </g>
+    <g id="Rectangle_541" data-name="Rectangle 541" transform="translate(226 1874)" fill="none" stroke="#b9b9b9" stroke-width="1">
+      <path d="M4,0H565a4,4,0,0,1,4,4V52a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" stroke="none"/>
+      <path d="M4-.5H565A4.5,4.5,0,0,1,569.5,4V52a.5.5,0,0,1-.5.5H4A4.5,4.5,0,0,1-.5,48V4A4.5,4.5,0,0,1,4-.5Z" fill="none"/>
+    </g>
+    <g id="Rectangle_547" data-name="Rectangle 547" transform="translate(226 2004)" fill="none" stroke="#b9b9b9" stroke-width="1">
+      <path d="M4,0H565a4,4,0,0,1,4,4V52a0,0,0,0,1,0,0H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" stroke="none"/>
+      <path d="M4-.5H565A4.5,4.5,0,0,1,569.5,4V52a.5.5,0,0,1-.5.5H4A4.5,4.5,0,0,1-.5,48V4A4.5,4.5,0,0,1,4-.5Z" fill="none"/>
+    </g>
+    <rect id="Rectangle_542" data-name="Rectangle 542" width="52" height="0.877" transform="translate(277.562 1926) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_551" data-name="Rectangle 551" width="52" height="0.877" transform="translate(277.562 2056) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_543" data-name="Rectangle 543" width="107.438" height="0.877" transform="translate(555 1926.877) rotate(180)" fill="#bcbcbc"/>
+    <rect id="Rectangle_549" data-name="Rectangle 549" width="107.438" height="0.877" transform="translate(555 2056.877) rotate(180)" fill="#bcbcbc"/>
+    <rect id="Rectangle_544" data-name="Rectangle 544" width="52" height="0.877" transform="translate(651.562 1926) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_548" data-name="Rectangle 548" width="52" height="0.877" transform="translate(651.562 2056) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_545" data-name="Rectangle 545" width="52" height="0.877" transform="translate(651.562 1979) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_550" data-name="Rectangle 550" width="52" height="0.877" transform="translate(651.562 2109) rotate(-90)" fill="#bcbcbc"/>
+    <rect id="Rectangle_552" data-name="Rectangle 552" width="52" height="0.877" transform="translate(651.562 2160) rotate(-90)" fill="#bcbcbc"/>
+    <text id="_5-4" data-name="5" transform="translate(245 1907)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">5</tspan></text>
+    <text id="_6-5" data-name="6" transform="translate(245 2037)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">6</tspan></text>
+    <text id="Steel-2" data-name="Steel" transform="translate(297 1908)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Steel</tspan></text>
+    <text id="Face_seal-2" data-name="Face seal" transform="translate(297 2038)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Face seal</tspan></text>
+    <text id="_4-6" data-name="4" transform="translate(617 1908)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">4</tspan></text>
+    <text id="S-2" data-name="S" transform="translate(617 2038)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">S</tspan></text>
+    <text id="_6-6" data-name="6" transform="translate(616 1961)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">6</tspan></text>
+    <text id="E" transform="translate(616 2091)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">E</tspan></text>
+    <text id="E-2" data-name="E" transform="translate(616 2142)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">E</tspan></text>
+    <text id="_304" data-name="304" transform="translate(671 1907)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">304</tspan></text>
+    <text id="Silicone" transform="translate(671 2037)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Silicone</tspan></text>
+    <text id="_316L" data-name="316L" transform="translate(670 1960)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">316L</tspan></text>
+    <text id="EPDM" transform="translate(670 2090)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">EPDM</tspan></text>
+    <text id="Buna" transform="translate(670 2141)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Buna</tspan></text>
+    <rect id="Rectangle_553" data-name="Rectangle 553" width="197.157" height="0.877" transform="translate(795 2110.877) rotate(180)" fill="#bcbcbc"/>
+    <g id="Group_4" data-name="Group 4" transform="translate(900 279)">
+      <rect id="Video" width="716" height="525" transform="translate(79 124)" fill="#e6f1ff"/>
+      <g id="Group_2" data-name="Group 2" transform="translate(398.073 379.5)">
+        <path id="Path_203" data-name="Path 203" d="M3704.849,925.425l19.131-26.336,13.061,17.97,20.952-29.616,26.723,37.982Z" transform="translate(-3704.849 -871.253)" fill="#2699fb"/>
+        <circle id="Ellipse_5" data-name="Ellipse 5" cx="7.781" cy="7.781" r="7.781" transform="translate(0.213)" fill="#2699fb"/>
+      </g>
+    </g>
+  </g>
+</svg>

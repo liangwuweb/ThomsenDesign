@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1349" viewBox="0 0 1920 1349">
+  <defs>
+    <clipPath id="clip-Page_1">
+      <rect width="1920" height="1349"/>
+    </clipPath>
+  </defs>
+  <g id="Page_1" data-name="Page 1" clip-path="url(#clip-Page_1)">
+    <rect width="1920" height="1349" fill="#fff"/>
+    <rect id="Base" width="1920" height="70" fill="#2699fb"/>
+    <text id="PRODUCTS" transform="translate(415 39)" fill="#fff" font-size="10" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">PRODUCTS</tspan></text>
+    <text id="ABOUT" transform="translate(545 39)" fill="#fff" font-size="10" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">ABOUT</tspan></text>
+    <text id="CONTACT" transform="translate(648 39)" fill="#fff" font-size="10" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">CONTACT</tspan></text>
+    <g id="more" transform="translate(1880 27)">
+      <rect id="Rectangle_449" data-name="Rectangle 449" width="16" height="16" fill="none"/>
+      <path id="Union_1" data-name="Union 1" d="M0,13.5A1.5,1.5,0,1,1,1.5,15,1.5,1.5,0,0,1,0,13.5Zm0-6A1.5,1.5,0,1,1,1.5,9,1.5,1.5,0,0,1,0,7.5Zm0-6A1.5,1.5,0,1,1,1.5,3,1.5,1.5,0,0,1,0,1.5Z" transform="translate(7 1)" fill="#2699fb"/>
+    </g>
+    <text id="THOMSEN_GROUP" data-name="THOMSEN GROUP" transform="translate(79 42)" fill="#fff" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.074em"><tspan x="0" y="0">THOMSEN GROUP</tspan></text>
+    <g id="Component_11_1" data-name="Component 11 – 1" transform="translate(1821.413 25.413)">
+      <rect id="Rectangle_392" data-name="Rectangle 392" width="20" height="20" transform="translate(-0.413 -0.413)" fill="none"/>
+      <path id="Path_1" data-name="Path 1" d="M86.638,19.587V10.664h3.047l.435-3.482H86.638V5.006c0-.979.326-1.741,1.741-1.741h1.85V.109C89.794.109,88.705,0,87.508,0a4.2,4.2,0,0,0-4.462,4.57V7.182H80v3.482h3.047v8.923Z" transform="translate(-75.103 0.001)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <g id="Component_12_1" data-name="Component 12 – 1" transform="translate(1752.238 25.413)">
+      <rect id="Rectangle_393" data-name="Rectangle 393" width="20" height="20" transform="translate(-0.239 -0.413)" fill="none"/>
+      <path id="Path_2" data-name="Path 2" d="M44.2,17.887A11.324,11.324,0,0,0,55.628,6.462V5.917A8.845,8.845,0,0,0,57.587,3.85,9.033,9.033,0,0,1,55.3,4.5a4.234,4.234,0,0,0,1.741-2.176,9.981,9.981,0,0,1-2.5.979A3.886,3.886,0,0,0,51.6,2a4.088,4.088,0,0,0-4.026,4.026,2.121,2.121,0,0,0,.109.871,11.251,11.251,0,0,1-8.27-4.244,4.167,4.167,0,0,0-.544,2.068,4.323,4.323,0,0,0,1.741,3.373,3.668,3.668,0,0,1-1.85-.544h0a3.977,3.977,0,0,0,3.265,3.917,3.355,3.355,0,0,1-1.088.109,1.852,1.852,0,0,1-.762-.109A4.122,4.122,0,0,0,43.985,14.3a8.216,8.216,0,0,1-5.006,1.741A3.013,3.013,0,0,1,38,15.929a10.271,10.271,0,0,0,6.2,1.959" transform="translate(-38 0.448)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <g id="Component_13_1" data-name="Component 13 – 1" transform="translate(1678.167 25.413)">
+      <path id="Path_3" data-name="Path 3" d="M9.794,1.741a30.029,30.029,0,0,1,3.917.109,5.047,5.047,0,0,1,1.85.326,3.822,3.822,0,0,1,1.85,1.85,5.047,5.047,0,0,1,.326,1.85c0,.979.109,1.306.109,3.917a30.029,30.029,0,0,1-.109,3.917,5.047,5.047,0,0,1-.326,1.85,3.822,3.822,0,0,1-1.85,1.85,5.047,5.047,0,0,1-1.85.326c-.979,0-1.306.109-3.917.109a30.029,30.029,0,0,1-3.917-.109,5.047,5.047,0,0,1-1.85-.326,3.822,3.822,0,0,1-1.85-1.85,5.047,5.047,0,0,1-.326-1.85c0-.979-.109-1.306-.109-3.917A30.029,30.029,0,0,1,1.85,5.876a5.047,5.047,0,0,1,.326-1.85,3.908,3.908,0,0,1,.762-1.088,1.84,1.84,0,0,1,1.088-.762,5.047,5.047,0,0,1,1.85-.326,30.029,30.029,0,0,1,3.917-.109M9.794,0A32.153,32.153,0,0,0,5.767.109,6.718,6.718,0,0,0,3.373.544,4.26,4.26,0,0,0,1.632,1.632,4.26,4.26,0,0,0,.544,3.373,4.958,4.958,0,0,0,.109,5.767,32.153,32.153,0,0,0,0,9.794,32.153,32.153,0,0,0,.109,13.82a6.718,6.718,0,0,0,.435,2.394,4.26,4.26,0,0,0,1.088,1.741,4.26,4.26,0,0,0,1.741,1.088,6.718,6.718,0,0,0,2.394.435,32.152,32.152,0,0,0,4.026.109,32.153,32.153,0,0,0,4.026-.109,6.718,6.718,0,0,0,2.394-.435,4.565,4.565,0,0,0,2.829-2.829,6.718,6.718,0,0,0,.435-2.394c0-1.088.109-1.415.109-4.026a32.152,32.152,0,0,0-.109-4.026,6.718,6.718,0,0,0-.435-2.394,4.26,4.26,0,0,0-1.088-1.741A4.26,4.26,0,0,0,16.214.544,6.718,6.718,0,0,0,13.82.109,32.153,32.153,0,0,0,9.794,0m0,4.788A4.925,4.925,0,0,0,4.788,9.794,5.006,5.006,0,1,0,9.794,4.788m0,8.27A3.206,3.206,0,0,1,6.529,9.794,3.206,3.206,0,0,1,9.794,6.529a3.206,3.206,0,0,1,3.265,3.265,3.206,3.206,0,0,1-3.265,3.265m5.223-9.685a1.2,1.2,0,1,0,1.2,1.2,1.208,1.208,0,0,0-1.2-1.2" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <path id="Path_204" data-name="Path 204" d="M0,0H716V85H0Z" transform="translate(79 688)" fill="#2699fb"/>
+    <g id="Group_4" data-name="Group 4" transform="translate(0 50)">
+      <rect id="Video" width="716" height="525" transform="translate(79 124)" fill="#e6f1ff"/>
+      <g id="Group_2" data-name="Group 2" transform="translate(398.073 379.5)">
+        <path id="Path_203" data-name="Path 203" d="M3704.849,925.425l19.131-26.336,13.061,17.97,20.952-29.616,26.723,37.982Z" transform="translate(-3704.849 -871.253)" fill="#2699fb"/>
+        <circle id="Ellipse_5" data-name="Ellipse 5" cx="7.781" cy="7.781" r="7.781" transform="translate(0.213)" fill="#2699fb"/>
+      </g>
+    </g>
+    <text id="SJ300A_Series_-_3A_Swivel_Joint" data-name="SJ300A Series - 3A Swivel Joint" transform="translate(977 266)" fill="#242424" font-size="40" font-family="Roboto-Black, Roboto" font-weight="800" letter-spacing="0.074em"><tspan x="0" y="0">SJ300A Series - 3A Swivel Joint</tspan></text>
+    <text id="_360_rotation_Sanitary_316_Stainless_3A_Hygienic_Design_CIP_-_Clean_In_Place_Low_High_Pressure_Clamp_Weld_many_other_connections_avail_Seals_available_in_Buna_Vision_EPDM_Silicone_32Ra_Surface_Finish_other_finishes_available_Temp_Range_to_360F_" data-name="360 rotation
+Sanitary 316 Stainless
+3A Hygienic Design
+CIP - Clean In Place
+Low &amp; High Pressure
+Clamp, Weld &amp; many other connections avail
+Seals available in Buna, Vision, EPDM &amp; Silicone
+32Ra Surface Finish (other finishes available)
+Temp Range to 360F
+" transform="translate(1004 381)" fill="#242424" font-size="16" font-family="Roboto-Regular, Roboto" letter-spacing="0.074em"><tspan x="0" y="0">360 rotation</tspan><tspan x="0" y="28">Sanitary 316 Stainless</tspan><tspan x="0" y="56">3A Hygienic Design</tspan><tspan x="0" y="84">CIP - Clean In Place</tspan><tspan x="0" y="112">Low &amp; High Pressure</tspan><tspan x="0" y="140">Clamp, Weld &amp; many other connections avail</tspan><tspan x="0" y="168">Seals available in Buna, Vision, EPDM &amp; Silicone</tspan><tspan x="0" y="196">32Ra Surface Finish (other finishes available)</tspan><tspan x="0" y="224">Temp Range to 360F</tspan><tspan x="0" y="252"></tspan></text>
+    <text id="INCLUDES:" transform="translate(977 308)" fill="#707070" font-size="20" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="21">INCLUDES:</tspan></text>
+    <g id="CTA" transform="translate(79 701)">
+      <text id="ALL_NEW_3A_Sanitary_Design" data-name="ALL NEW 3A Sanitary Design" transform="translate(377 42)" fill="#fff" font-size="20" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-138.916" y="0">ALL NEW 3A Sanitary Design</tspan></text>
+    </g>
+    <g id="CTA-2" data-name="CTA" transform="translate(977 651)">
+      <rect id="Rectangle_119" data-name="Rectangle 119" width="418" height="48" rx="4" fill="#2699fb"/>
+      <text id="Swivel_Joint_Components_Part_Numbers" data-name="Swivel Joint Components &amp; Part Numbers" transform="translate(209 30)" fill="#fff" font-size="16" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-160.027" y="0">Swivel Joint Components &amp; Part Numbers</tspan></text>
+    </g>
+    <g id="Group_6" data-name="Group 6" transform="translate(134 -9)">
+      <g id="Number_1" data-name="Number 1" transform="translate(-152.06 -343.06)">
+        <circle id="Ellipse_112" data-name="Ellipse 112" cx="2.5" cy="2.5" r="2.5" transform="translate(1007.06 725.06)" fill="#2699fb"/>
+      </g>
+      <g id="Number_1-2" data-name="Number 1" transform="translate(-152.06 -315.06)">
+        <circle id="Ellipse_112-2" data-name="Ellipse 112" cx="2.5" cy="2.5" r="2.5" transform="translate(1007.06 725.06)" fill="#2699fb"/>
+      </g>
+    </g>
+    <g id="Group_7" data-name="Group 7" transform="translate(134 48)">
+      <g id="Number_1-3" data-name="Number 1" transform="translate(-152.06 -343.06)">
+        <circle id="Ellipse_112-3" data-name="Ellipse 112" cx="2.5" cy="2.5" r="2.5" transform="translate(1007.06 725.06)" fill="#2699fb"/>
+      </g>
+      <g id="Number_1-4" data-name="Number 1" transform="translate(-152.06 -315.06)">
+        <circle id="Ellipse_112-4" data-name="Ellipse 112" cx="2.5" cy="2.5" r="2.5" transform="translate(1007.06 725.06)" fill="#2699fb"/>
+      </g>
+    </g>
+    <g id="Group_8" data-name="Group 8" transform="translate(134 105)">
+      <g id="Number_1-5" data-name="Number 1" transform="translate(-152.06 -343.06)">
+        <circle id="Ellipse_112-5" data-name="Ellipse 112" cx="2.5" cy="2.5" r="2.5" transform="translate(1007.06 725.06)" fill="#2699fb"/>
+      </g>
+      <g id="Number_1-6" data-name="Number 1" transform="translate(-152.06 -315.06)">
+        <circle id="Ellipse_112-6" data-name="Ellipse 112" cx="2.5" cy="2.5" r="2.5" transform="translate(1007.06 725.06)" fill="#2699fb"/>
+      </g>
+    </g>
+    <g id="Group_9" data-name="Group 9" transform="translate(134 159)">
+      <g id="Number_1-7" data-name="Number 1" transform="translate(-152.06 -343.06)">
+        <circle id="Ellipse_112-7" data-name="Ellipse 112" cx="2.5" cy="2.5" r="2.5" transform="translate(1007.06 725.06)" fill="#2699fb"/>
+      </g>
+      <g id="Number_1-8" data-name="Number 1" transform="translate(-152.06 -315.06)">
+        <circle id="Ellipse_112-8" data-name="Ellipse 112" cx="2.5" cy="2.5" r="2.5" transform="translate(1007.06 725.06)" fill="#2699fb"/>
+      </g>
+    </g>
+    <g id="Number_1-9" data-name="Number 1" transform="translate(-18.06 -126.06)">
+      <circle id="Ellipse_112-9" data-name="Ellipse 112" cx="2.5" cy="2.5" r="2.5" transform="translate(1007.06 725.06)" fill="#2699fb"/>
+    </g>
+    <text id="Other_Material_Construction_Available_" data-name="Other Material Construction Available " transform="translate(341 906)" fill="#242424" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="-221.927" y="0">Other Material Construction Available </tspan></text>
+    <g id="Number_1-10" data-name="Number 1" transform="translate(-932 158)">
+      <circle id="Ellipse_112-10" data-name="Ellipse 112" cx="13.5" cy="13.5" r="13.5" transform="translate(1007 725)" fill="#2699fb"/>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(-4 -56)">
+      <text id="MTR_Available_on_Request_" data-name="MTR Available on Request  " transform="translate(284 1039)" fill="#242424" font-size="26" font-family="Roboto-Regular, Roboto"><tspan x="-160.075" y="0" xml:space="preserve">MTR Available on Request  </tspan></text>
+      <g id="Number_2" data-name="Number 2" transform="translate(-978 290)">
+        <circle id="Ellipse_113" data-name="Ellipse 113" cx="13.5" cy="13.5" r="13.5" transform="translate(1057 725)" fill="#2699fb"/>
+      </g>
+    </g>
+    <g id="Group_15" data-name="Group 15" transform="translate(0 -150)">
+      <rect id="Base-2" data-name="Base" width="1920" height="200" transform="translate(0 1300)" fill="#2699fb"/>
+      <text id="_THOMSEN_GROUP" data-name="© THOMSEN GROUP" transform="translate(1841 1474)" fill="#fff" font-size="10" font-family="ArialMT, Arial"><tspan x="-99.414" y="0">© THOMSEN GROUP</tspan></text>
+      <g id="social" transform="translate(1740 1343.38)">
+        <g id="Component_11_1-2" data-name="Component 11 – 1" transform="translate(83.381 0.001)">
+          <rect id="Rectangle_392-2" data-name="Rectangle 392" width="20" height="20" transform="translate(-0.381 -0.381)" fill="none"/>
+          <path id="Path_1-2" data-name="Path 1" d="M86.649,19.619V10.681H89.7l.436-3.488H86.649V5.014c0-.981.327-1.744,1.744-1.744h1.853V.109C89.81.109,88.72,0,87.521,0a4.207,4.207,0,0,0-4.469,4.578V7.194H80v3.488h3.052v8.938Z" transform="translate(-75.095 0.001)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+        <g id="Component_12_1-2" data-name="Component 12 – 1" transform="translate(44.143 0.001)">
+          <rect id="Rectangle_393-2" data-name="Rectangle 393" width="20" height="20" transform="translate(-0.143 -0.381)" fill="none"/>
+          <path id="Path_2-2" data-name="Path 2" d="M44.213,17.913A11.343,11.343,0,0,0,55.657,6.469V5.924a8.86,8.86,0,0,0,1.962-2.071,9.048,9.048,0,0,1-2.289.654,4.241,4.241,0,0,0,1.744-2.18,10,10,0,0,1-2.507.981A3.893,3.893,0,0,0,51.624,2a4.1,4.1,0,0,0-4.033,4.033A2.125,2.125,0,0,0,47.7,6.9a11.269,11.269,0,0,1-8.284-4.251,4.174,4.174,0,0,0-.545,2.071A4.33,4.33,0,0,0,40.616,8.1a3.674,3.674,0,0,1-1.853-.545h0a3.983,3.983,0,0,0,3.27,3.924,3.36,3.36,0,0,1-1.09.109,1.855,1.855,0,0,1-.763-.109,4.129,4.129,0,0,0,3.815,2.834,8.229,8.229,0,0,1-5.014,1.744A3.018,3.018,0,0,1,38,15.951a10.288,10.288,0,0,0,6.213,1.962" transform="translate(-38 0.452)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+        <g id="Component_13_1-2" data-name="Component 13 – 1" transform="translate(0 0.001)">
+          <path id="Path_3-2" data-name="Path 3" d="M9.81,1.744a30.078,30.078,0,0,1,3.924.109,5.055,5.055,0,0,1,1.853.327,3.828,3.828,0,0,1,1.853,1.853,5.055,5.055,0,0,1,.327,1.853c0,.981.109,1.308.109,3.924a30.078,30.078,0,0,1-.109,3.924,5.055,5.055,0,0,1-.327,1.853,3.828,3.828,0,0,1-1.853,1.853,5.055,5.055,0,0,1-1.853.327c-.981,0-1.308.109-3.924.109a30.078,30.078,0,0,1-3.924-.109,5.055,5.055,0,0,1-1.853-.327A3.828,3.828,0,0,1,2.18,15.586a5.055,5.055,0,0,1-.327-1.853c0-.981-.109-1.308-.109-3.924a30.078,30.078,0,0,1,.109-3.924A5.055,5.055,0,0,1,2.18,4.033a3.915,3.915,0,0,1,.763-1.09,1.843,1.843,0,0,1,1.09-.763,5.055,5.055,0,0,1,1.853-.327A30.078,30.078,0,0,1,9.81,1.744M9.81,0A32.2,32.2,0,0,0,5.777.109a6.729,6.729,0,0,0-2.4.436,4.267,4.267,0,0,0-1.744,1.09A4.267,4.267,0,0,0,.545,3.379a4.966,4.966,0,0,0-.436,2.4A32.2,32.2,0,0,0,0,9.81a32.2,32.2,0,0,0,.109,4.033,6.729,6.729,0,0,0,.436,2.4,4.267,4.267,0,0,0,1.09,1.744,4.267,4.267,0,0,0,1.744,1.09,6.729,6.729,0,0,0,2.4.436,32.2,32.2,0,0,0,4.033.109,32.2,32.2,0,0,0,4.033-.109,6.729,6.729,0,0,0,2.4-.436,4.573,4.573,0,0,0,2.834-2.834,6.729,6.729,0,0,0,.436-2.4c0-1.09.109-1.417.109-4.033a32.2,32.2,0,0,0-.109-4.033,6.729,6.729,0,0,0-.436-2.4,4.267,4.267,0,0,0-1.09-1.744A4.267,4.267,0,0,0,16.24.545a6.729,6.729,0,0,0-2.4-.436A32.2,32.2,0,0,0,9.81,0m0,4.8A4.933,4.933,0,0,0,4.8,9.81,5.014,5.014,0,1,0,9.81,4.8m0,8.284A3.211,3.211,0,0,1,6.54,9.81,3.211,3.211,0,0,1,9.81,6.54a3.211,3.211,0,0,1,3.27,3.27,3.211,3.211,0,0,1-3.27,3.27m5.232-9.7a1.2,1.2,0,1,0,1.2,1.2,1.21,1.21,0,0,0-1.2-1.2" fill="#fff" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <text id="THOMSEN_GROUP-2" data-name="THOMSEN GROUP" transform="translate(79 1408)" fill="#fff" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.074em"><tspan x="0" y="0">THOMSEN GROUP</tspan></text>
+      <text id="_262-652-2662" data-name="262-652-2662" transform="translate(329 1387)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">262-652-2662</tspan></text>
+      <text id="_1303_43rd_Street_Kenosha_WI_53140" data-name="1303 43rd Street
+Kenosha, WI 53140" transform="translate(329 1419)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">1303 43rd Street</tspan><tspan x="0" y="20">Kenosha, WI 53140</tspan></text>
+      <text id="CONTACT-2" data-name="CONTACT" transform="translate(639 1374)" fill="#fff" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">CONTACT</tspan></text>
+      <text id="PRODUCT" transform="translate(639 1442)" fill="#fff" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">PRODUCT</tspan></text>
+      <text id="ABOUT-2" data-name="ABOUT" transform="translate(639 1408)" fill="#fff" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">ABOUT</tspan></text>
+    </g>
+  </g>
+</svg>

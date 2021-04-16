@@ -1,0 +1,286 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="2419" viewBox="0 0 1920 2419">
+  <defs>
+    <clipPath id="clip-Page_3">
+      <rect width="1920" height="2419"/>
+    </clipPath>
+  </defs>
+  <g id="Page_3" data-name="Page 3" clip-path="url(#clip-Page_3)">
+    <rect width="1920" height="2419" fill="#fff"/>
+    <rect id="Base" width="1920" height="70" fill="#2699fb"/>
+    <text id="PRODUCTS" transform="translate(415 39)" fill="#fff" font-size="10" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">PRODUCTS</tspan></text>
+    <text id="ABOUT" transform="translate(545 39)" fill="#fff" font-size="10" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">ABOUT</tspan></text>
+    <text id="CONTACT" transform="translate(648 39)" fill="#fff" font-size="10" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">CONTACT</tspan></text>
+    <g id="more" transform="translate(1880 27)">
+      <rect id="Rectangle_449" data-name="Rectangle 449" width="16" height="16" fill="none"/>
+      <path id="Union_1" data-name="Union 1" d="M0,13.5A1.5,1.5,0,1,1,1.5,15,1.5,1.5,0,0,1,0,13.5Zm0-6A1.5,1.5,0,1,1,1.5,9,1.5,1.5,0,0,1,0,7.5Zm0-6A1.5,1.5,0,1,1,1.5,3,1.5,1.5,0,0,1,0,1.5Z" transform="translate(7 1)" fill="#2699fb"/>
+    </g>
+    <text id="LO" transform="translate(84 135)" fill="#fff" font-size="11" font-family="'\.AppleSystemUIFont'"><tspan x="0" y="0">LO</tspan></text>
+    <text id="THOMSEN_GROUP" data-name="THOMSEN GROUP" transform="translate(79 42)" fill="#fff" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.074em"><tspan x="0" y="0">THOMSEN GROUP</tspan></text>
+    <g id="Component_11_1" data-name="Component 11 – 1" transform="translate(1821.413 25.413)">
+      <rect id="Rectangle_392" data-name="Rectangle 392" width="20" height="20" transform="translate(-0.413 -0.413)" fill="none"/>
+      <path id="Path_1" data-name="Path 1" d="M86.638,19.587V10.664h3.047l.435-3.482H86.638V5.006c0-.979.326-1.741,1.741-1.741h1.85V.109C89.794.109,88.705,0,87.508,0a4.2,4.2,0,0,0-4.462,4.57V7.182H80v3.482h3.047v8.923Z" transform="translate(-75.103 0.001)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <g id="Component_12_1" data-name="Component 12 – 1" transform="translate(1752.238 25.413)">
+      <rect id="Rectangle_393" data-name="Rectangle 393" width="20" height="20" transform="translate(-0.239 -0.413)" fill="none"/>
+      <path id="Path_2" data-name="Path 2" d="M44.2,17.887A11.324,11.324,0,0,0,55.628,6.462V5.917A8.845,8.845,0,0,0,57.587,3.85,9.033,9.033,0,0,1,55.3,4.5a4.234,4.234,0,0,0,1.741-2.176,9.981,9.981,0,0,1-2.5.979A3.886,3.886,0,0,0,51.6,2a4.088,4.088,0,0,0-4.026,4.026,2.121,2.121,0,0,0,.109.871,11.251,11.251,0,0,1-8.27-4.244,4.167,4.167,0,0,0-.544,2.068,4.323,4.323,0,0,0,1.741,3.373,3.668,3.668,0,0,1-1.85-.544h0a3.977,3.977,0,0,0,3.265,3.917,3.355,3.355,0,0,1-1.088.109,1.852,1.852,0,0,1-.762-.109A4.122,4.122,0,0,0,43.985,14.3a8.216,8.216,0,0,1-5.006,1.741A3.013,3.013,0,0,1,38,15.929a10.271,10.271,0,0,0,6.2,1.959" transform="translate(-38 0.448)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <g id="Component_13_1" data-name="Component 13 – 1" transform="translate(1678.167 25.413)">
+      <path id="Path_3" data-name="Path 3" d="M9.794,1.741a30.029,30.029,0,0,1,3.917.109,5.047,5.047,0,0,1,1.85.326,3.822,3.822,0,0,1,1.85,1.85,5.047,5.047,0,0,1,.326,1.85c0,.979.109,1.306.109,3.917a30.029,30.029,0,0,1-.109,3.917,5.047,5.047,0,0,1-.326,1.85,3.822,3.822,0,0,1-1.85,1.85,5.047,5.047,0,0,1-1.85.326c-.979,0-1.306.109-3.917.109a30.029,30.029,0,0,1-3.917-.109,5.047,5.047,0,0,1-1.85-.326,3.822,3.822,0,0,1-1.85-1.85,5.047,5.047,0,0,1-.326-1.85c0-.979-.109-1.306-.109-3.917A30.029,30.029,0,0,1,1.85,5.876a5.047,5.047,0,0,1,.326-1.85,3.908,3.908,0,0,1,.762-1.088,1.84,1.84,0,0,1,1.088-.762,5.047,5.047,0,0,1,1.85-.326,30.029,30.029,0,0,1,3.917-.109M9.794,0A32.153,32.153,0,0,0,5.767.109,6.718,6.718,0,0,0,3.373.544,4.26,4.26,0,0,0,1.632,1.632,4.26,4.26,0,0,0,.544,3.373,4.958,4.958,0,0,0,.109,5.767,32.153,32.153,0,0,0,0,9.794,32.153,32.153,0,0,0,.109,13.82a6.718,6.718,0,0,0,.435,2.394,4.26,4.26,0,0,0,1.088,1.741,4.26,4.26,0,0,0,1.741,1.088,6.718,6.718,0,0,0,2.394.435,32.152,32.152,0,0,0,4.026.109,32.153,32.153,0,0,0,4.026-.109,6.718,6.718,0,0,0,2.394-.435,4.565,4.565,0,0,0,2.829-2.829,6.718,6.718,0,0,0,.435-2.394c0-1.088.109-1.415.109-4.026a32.152,32.152,0,0,0-.109-4.026,6.718,6.718,0,0,0-.435-2.394,4.26,4.26,0,0,0-1.088-1.741A4.26,4.26,0,0,0,16.214.544,6.718,6.718,0,0,0,13.82.109,32.153,32.153,0,0,0,9.794,0m0,4.788A4.925,4.925,0,0,0,4.788,9.794,5.006,5.006,0,1,0,9.794,4.788m0,8.27A3.206,3.206,0,0,1,6.529,9.794,3.206,3.206,0,0,1,9.794,6.529a3.206,3.206,0,0,1,3.265,3.265,3.206,3.206,0,0,1-3.265,3.265m5.223-9.685a1.2,1.2,0,1,0,1.2,1.2,1.208,1.208,0,0,0-1.2-1.2" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <g id="Group_16" data-name="Group 16" transform="translate(0 5)">
+      <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(226 1239)" fill="#fff" stroke="#b9b9b9" stroke-width="1">
+        <rect width="1469" height="277" rx="4" stroke="none"/>
+        <rect x="-0.5" y="-0.5" width="1470" height="278" rx="4.5" fill="none"/>
+      </g>
+      <rect id="Rectangle_6" data-name="Rectangle 6" width="1470" height="1" transform="translate(225 1327)" fill="#bcbcbc"/>
+      <text id="_1.5" data-name="1.5" transform="translate(245 1309)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">1.5</tspan></text>
+      <text id="_4_3_4" data-name="4 3/4" transform="translate(778 1309)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">4 3/4</tspan></text>
+      <text id="_3" data-name="3" transform="translate(307 1310)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">3</tspan></text>
+      <text id="_2" data-name="2" transform="translate(376 1310)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">2</tspan></text>
+      <text id="_2_3_4" data-name="2 3/4" transform="translate(540 1310)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">2 3/4</tspan></text>
+      <text id="_6_1_2" data-name="6 1/2" transform="translate(1006 1309)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">6 1/2</tspan></text>
+      <text id="_7_1_2" data-name="7 1/2" transform="translate(1243 1310)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">7 1/2</tspan></text>
+      <text id="_9_1_4" data-name="9 1/4" transform="translate(1477 1309)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">9 1/4</tspan></text>
+      <rect id="Rectangle_6-2" data-name="Rectangle 6" width="1470" height="1" transform="translate(225 1421)" fill="#bcbcbc"/>
+      <text id="_2.5" data-name="2.5" transform="translate(245 1403)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">2.5</tspan></text>
+      <text id="_4_3_4-2" data-name="4 3/4" transform="translate(778 1403)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">4 3/4</tspan></text>
+      <text id="_3-2" data-name="3" transform="translate(307 1404)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">3</tspan></text>
+      <text id="_2-2" data-name="2" transform="translate(376 1404)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">2</tspan></text>
+      <text id="_2_3_4-2" data-name="2 3/4" transform="translate(540 1404)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">2 3/4</tspan></text>
+      <text id="_6_1_2-2" data-name="6 1/2" transform="translate(1006 1403)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">6 1/2</tspan></text>
+      <text id="_7_1_2-2" data-name="7 1/2" transform="translate(1243 1404)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">7 1/2</tspan></text>
+      <text id="_9_1_4-2" data-name="9 1/4" transform="translate(1477 1403)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">9 1/4</tspan></text>
+      <rect id="Rectangle_6-3" data-name="Rectangle 6" width="1470" height="1" transform="translate(225 1516)" fill="#bcbcbc"/>
+      <text id="_4" data-name="4" transform="translate(245 1498)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">4</tspan></text>
+      <text id="_4_3_4-3" data-name="4 3/4" transform="translate(778 1498)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">4 3/4</tspan></text>
+      <text id="_3-3" data-name="3" transform="translate(307 1499)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">3</tspan></text>
+      <text id="_2-3" data-name="2" transform="translate(376 1499)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">2</tspan></text>
+      <text id="_2_3_4-3" data-name="2 3/4" transform="translate(540 1499)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">2 3/4</tspan></text>
+      <text id="_6_1_2-3" data-name="6 1/2" transform="translate(1006 1498)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">6 1/2</tspan></text>
+      <text id="_7_1_2-3" data-name="7 1/2" transform="translate(1243 1499)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">7 1/2</tspan></text>
+      <text id="_9_1_4-3" data-name="9 1/4" transform="translate(1477 1498)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">9 1/4</tspan></text>
+      <rect id="Rectangle_6-4" data-name="Rectangle 6" width="1470" height="1" transform="translate(225 1376)" fill="#bcbcbc"/>
+      <text id="_2-4" data-name="2" transform="translate(245 1358)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">2</tspan></text>
+      <text id="_4_3_4-4" data-name="4 3/4" transform="translate(778 1358)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">4 3/4</tspan></text>
+      <text id="_3-4" data-name="3" transform="translate(307 1359)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">3</tspan></text>
+      <text id="_2-5" data-name="2" transform="translate(376 1359)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">2</tspan></text>
+      <text id="_2_3_4-4" data-name="2 3/4" transform="translate(540 1359)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">2 3/4</tspan></text>
+      <text id="_6_1_2-4" data-name="6 1/2" transform="translate(1006 1358)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">6 1/2</tspan></text>
+      <text id="_7_1_2-4" data-name="7 1/2" transform="translate(1243 1359)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">7 1/2</tspan></text>
+      <text id="_9_1_4-4" data-name="9 1/4" transform="translate(1477 1358)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">9 1/4</tspan></text>
+      <rect id="Rectangle_6-5" data-name="Rectangle 6" width="1470" height="1" transform="translate(225 1470)" fill="#bcbcbc"/>
+      <text id="_3-5" data-name="3" transform="translate(245 1452)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">3</tspan></text>
+      <text id="_4_3_4-5" data-name="4 3/4" transform="translate(778 1452)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">4 3/4</tspan></text>
+      <text id="_3-6" data-name="3" transform="translate(307 1453)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">3</tspan></text>
+      <text id="_2-6" data-name="2" transform="translate(376 1453)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">2</tspan></text>
+      <text id="_2_3_4-5" data-name="2 3/4" transform="translate(540 1453)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">2 3/4</tspan></text>
+      <text id="_6_1_2-5" data-name="6 1/2" transform="translate(1006 1452)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">6 1/2</tspan></text>
+      <text id="_7_1_2-5" data-name="7 1/2" transform="translate(1243 1453)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">7 1/2</tspan></text>
+      <text id="_9_1_4-5" data-name="9 1/4" transform="translate(1477 1452)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">9 1/4</tspan></text>
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="1470" height="40" transform="translate(225 1239)" fill="#2699fb"/>
+      <text id="Size" transform="translate(245 1265)" fill="#fff" font-size="13" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">Size</tspan></text>
+      <text id="A" transform="translate(307 1265)" fill="#fff" font-size="13" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">A</tspan></text>
+      <text id="A_IF_BUTT_WELD" data-name="A IF BUTT WELD" transform="translate(376 1265)" fill="#fff" font-size="13" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">A IF BUTT WELD</tspan></text>
+      <text id="B" transform="translate(541 1265)" fill="#fff" font-size="13" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">B</tspan></text>
+      <text id="C" transform="translate(773 1265)" fill="#fff" font-size="13" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">C</tspan></text>
+      <text id="D" transform="translate(1007 1265)" fill="#fff" font-size="13" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">D</tspan></text>
+      <text id="E" transform="translate(1242 1265)" fill="#fff" font-size="13" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">E</tspan></text>
+      <text id="F" transform="translate(1473 1265)" fill="#fff" font-size="13" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">F</tspan></text>
+    </g>
+    <g id="Group_17" data-name="Group 17" transform="translate(1 411)">
+      <g id="Rectangle_3-2" data-name="Rectangle 3" transform="translate(226 1239)" fill="#fff" stroke="#b9b9b9" stroke-width="1">
+        <rect width="1469" height="277" rx="4" stroke="none"/>
+        <rect x="-0.5" y="-0.5" width="1470" height="278" rx="4.5" fill="none"/>
+      </g>
+      <rect id="Rectangle_6-6" data-name="Rectangle 6" width="1470" height="1" transform="translate(225 1327)" fill="#bcbcbc"/>
+      <text id="_1.5-2" data-name="1.5" transform="translate(245 1309)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">1.5</tspan></text>
+      <text id="_4_3_4-6" data-name="4 3/4" transform="translate(778 1309)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">4 3/4</tspan></text>
+      <text id="_3-7" data-name="3" transform="translate(307 1310)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">3</tspan></text>
+      <text id="_2-7" data-name="2" transform="translate(376 1310)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">2</tspan></text>
+      <text id="_2_3_4-6" data-name="2 3/4" transform="translate(540 1310)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">2 3/4</tspan></text>
+      <text id="_6_1_2-6" data-name="6 1/2" transform="translate(1006 1309)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">6 1/2</tspan></text>
+      <text id="_7_1_2-6" data-name="7 1/2" transform="translate(1243 1310)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">7 1/2</tspan></text>
+      <text id="_9_1_4-6" data-name="9 1/4" transform="translate(1477 1309)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">9 1/4</tspan></text>
+      <rect id="Rectangle_6-7" data-name="Rectangle 6" width="1470" height="1" transform="translate(225 1421)" fill="#bcbcbc"/>
+      <text id="_2.5-2" data-name="2.5" transform="translate(245 1403)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">2.5</tspan></text>
+      <text id="_4_3_4-7" data-name="4 3/4" transform="translate(778 1403)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">4 3/4</tspan></text>
+      <text id="_3-8" data-name="3" transform="translate(307 1404)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">3</tspan></text>
+      <text id="_2-8" data-name="2" transform="translate(376 1404)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">2</tspan></text>
+      <text id="_2_3_4-7" data-name="2 3/4" transform="translate(540 1404)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">2 3/4</tspan></text>
+      <text id="_6_1_2-7" data-name="6 1/2" transform="translate(1006 1403)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">6 1/2</tspan></text>
+      <text id="_7_1_2-7" data-name="7 1/2" transform="translate(1243 1404)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">7 1/2</tspan></text>
+      <text id="_9_1_4-7" data-name="9 1/4" transform="translate(1477 1403)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">9 1/4</tspan></text>
+      <rect id="Rectangle_6-8" data-name="Rectangle 6" width="1470" height="1" transform="translate(225 1516)" fill="#bcbcbc"/>
+      <text id="_4-2" data-name="4" transform="translate(245 1498)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">4</tspan></text>
+      <text id="_4_3_4-8" data-name="4 3/4" transform="translate(778 1498)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">4 3/4</tspan></text>
+      <text id="_3-9" data-name="3" transform="translate(307 1499)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">3</tspan></text>
+      <text id="_2-9" data-name="2" transform="translate(376 1499)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">2</tspan></text>
+      <text id="_2_3_4-8" data-name="2 3/4" transform="translate(540 1499)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">2 3/4</tspan></text>
+      <text id="_6_1_2-8" data-name="6 1/2" transform="translate(1006 1498)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">6 1/2</tspan></text>
+      <text id="_7_1_2-8" data-name="7 1/2" transform="translate(1243 1499)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">7 1/2</tspan></text>
+      <text id="_9_1_4-8" data-name="9 1/4" transform="translate(1477 1498)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">9 1/4</tspan></text>
+      <rect id="Rectangle_6-9" data-name="Rectangle 6" width="1470" height="1" transform="translate(225 1376)" fill="#bcbcbc"/>
+      <text id="_2-10" data-name="2" transform="translate(245 1358)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">2</tspan></text>
+      <text id="_4_3_4-9" data-name="4 3/4" transform="translate(778 1358)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">4 3/4</tspan></text>
+      <text id="_3-10" data-name="3" transform="translate(307 1359)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">3</tspan></text>
+      <text id="_2-11" data-name="2" transform="translate(376 1359)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">2</tspan></text>
+      <text id="_2_3_4-9" data-name="2 3/4" transform="translate(540 1359)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">2 3/4</tspan></text>
+      <text id="_6_1_2-9" data-name="6 1/2" transform="translate(1006 1358)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">6 1/2</tspan></text>
+      <text id="_7_1_2-9" data-name="7 1/2" transform="translate(1243 1359)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">7 1/2</tspan></text>
+      <text id="_9_1_4-9" data-name="9 1/4" transform="translate(1477 1358)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">9 1/4</tspan></text>
+      <rect id="Rectangle_6-10" data-name="Rectangle 6" width="1470" height="1" transform="translate(225 1470)" fill="#bcbcbc"/>
+      <text id="_3-11" data-name="3" transform="translate(245 1452)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">3</tspan></text>
+      <text id="_4_3_4-10" data-name="4 3/4" transform="translate(778 1452)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">4 3/4</tspan></text>
+      <text id="_3-12" data-name="3" transform="translate(307 1453)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">3</tspan></text>
+      <text id="_2-12" data-name="2" transform="translate(376 1453)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">2</tspan></text>
+      <text id="_2_3_4-10" data-name="2 3/4" transform="translate(540 1453)" fill="#393939" font-size="14" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">2 3/4</tspan></text>
+      <text id="_6_1_2-10" data-name="6 1/2" transform="translate(1006 1452)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">6 1/2</tspan></text>
+      <text id="_7_1_2-10" data-name="7 1/2" transform="translate(1243 1453)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">7 1/2</tspan></text>
+      <text id="_9_1_4-10" data-name="9 1/4" transform="translate(1477 1452)" fill="#393939" font-size="14" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">9 1/4</tspan></text>
+      <rect id="Rectangle_8-2" data-name="Rectangle 8" width="1470" height="40" transform="translate(225 1239)" fill="#2699fb"/>
+      <text id="Size-2" data-name="Size" transform="translate(245 1265)" fill="#fff" font-size="13" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">Size</tspan></text>
+      <text id="A-2" data-name="A" transform="translate(307 1265)" fill="#fff" font-size="13" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">A</tspan></text>
+      <text id="A_IF_BUTT_WELD-2" data-name="A IF BUTT WELD" transform="translate(376 1265)" fill="#fff" font-size="13" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">A IF BUTT WELD</tspan></text>
+      <text id="B-2" data-name="B" transform="translate(541 1265)" fill="#fff" font-size="13" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">B</tspan></text>
+      <text id="C-2" data-name="C" transform="translate(773 1265)" fill="#fff" font-size="13" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">C</tspan></text>
+      <text id="D-2" data-name="D" transform="translate(1007 1265)" fill="#fff" font-size="13" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">D</tspan></text>
+      <text id="E-2" data-name="E" transform="translate(1242 1265)" fill="#fff" font-size="13" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">E</tspan></text>
+      <text id="F-2" data-name="F" transform="translate(1473 1265)" fill="#fff" font-size="13" font-family="HelveticaNeue-Bold, Helvetica Neue" font-weight="700"><tspan x="0" y="0">F</tspan></text>
+    </g>
+    <g id="Group_30" data-name="Group 30" transform="translate(225 662)">
+      <g id="Group_4" data-name="Group 4" transform="translate(0 0)">
+        <rect id="Video" width="467" height="381" transform="translate(0)" fill="#e6f1ff"/>
+      </g>
+    </g>
+    <g id="Group_29" data-name="Group 29" transform="translate(726.256 662)">
+      <g id="Group_4-2" data-name="Group 4" transform="translate(0 0)">
+        <rect id="Video-2" data-name="Video" width="468" height="381" transform="translate(-0.256)" fill="#e6f1ff"/>
+      </g>
+    </g>
+    <g id="Group_28" data-name="Group 28" transform="translate(1227.513 662)">
+      <g id="Group_4-3" data-name="Group 4" transform="translate(0 0)">
+        <rect id="Video-3" data-name="Video" width="467" height="381" transform="translate(0.488)" fill="#e6f1ff"/>
+      </g>
+    </g>
+    <rect id="Base-2" data-name="Base" width="1920" height="98" transform="translate(0 70)" fill="#105ec1"/>
+    <text id="Swivel_Joint_Drawings_dimensions" data-name="Swivel Joint Drawings &amp; dimensions" transform="translate(79 138)" fill="#fff" font-size="32" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">SWIVEL JOINT DRAWINGS &amp; DIMENSIONS</tspan></text>
+    <text id="SWIVEL_JOINT_DIMENSIONS" data-name="SWIVEL JOINT DIMENSIONS" transform="translate(225 1153)" fill="#393939" font-size="30" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">SWIVEL JOINT DIMENSIONS</tspan></text>
+    <text id="TRICLAMP_CONNECTIONS" data-name="TRICLAMP CONNECTIONS" transform="translate(224 1222)" fill="#2699fb" font-size="25" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">TRICLAMP CONNECTIONS</tspan></text>
+    <text id="THREAD_CONNECTIONS" data-name="THREAD CONNECTIONS" transform="translate(225 1627)" fill="#2699fb" font-size="25" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">THREAD CONNECTIONS</tspan></text>
+    <text id="_FOR_OTHER_TYPE_CONNECTIONS_DIMENSIONS_AVAILABLE_UPON_REQUEST" data-name="* FOR OTHER TYPE CONNECTIONS, DIMENSIONS AVAILABLE UPON REQUEST" transform="translate(225 2049)" fill="#e87f2c" font-size="28" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">* </tspan><tspan y="0" fill="#393939" font-size="25" font-family="Roboto-Bold, Roboto" font-weight="700">FOR OTHER TYPE CONNECTIONS, DIMENSIONS AVAILABLE UPON REQUEST</tspan></text>
+    <g id="Group_14" data-name="Group 14" transform="translate(0 -209)">
+      <rect id="Base-3" data-name="Base" width="1920" height="200" transform="translate(0 2431)" fill="#2699fb"/>
+      <text id="_THOMSEN_GROUP" data-name="© THOMSEN GROUP" transform="translate(1841 2605)" fill="#fff" font-size="10" font-family="ArialMT, Arial"><tspan x="-99.414" y="0">© THOMSEN GROUP</tspan></text>
+      <g id="social" transform="translate(1740 2474.38)">
+        <g id="Component_11_1-2" data-name="Component 11 – 1" transform="translate(83.381 0.001)">
+          <rect id="Rectangle_392-2" data-name="Rectangle 392" width="20" height="20" transform="translate(-0.381 -0.381)" fill="none"/>
+          <path id="Path_1-2" data-name="Path 1" d="M86.649,19.619V10.681H89.7l.436-3.488H86.649V5.014c0-.981.327-1.744,1.744-1.744h1.853V.109C89.81.109,88.72,0,87.521,0a4.207,4.207,0,0,0-4.469,4.578V7.194H80v3.488h3.052v8.938Z" transform="translate(-75.095 0.001)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+        <g id="Component_12_1-2" data-name="Component 12 – 1" transform="translate(44.143 0.001)">
+          <rect id="Rectangle_393-2" data-name="Rectangle 393" width="20" height="20" transform="translate(-0.143 -0.381)" fill="none"/>
+          <path id="Path_2-2" data-name="Path 2" d="M44.213,17.913A11.343,11.343,0,0,0,55.657,6.469V5.924a8.86,8.86,0,0,0,1.962-2.071,9.048,9.048,0,0,1-2.289.654,4.241,4.241,0,0,0,1.744-2.18,10,10,0,0,1-2.507.981A3.893,3.893,0,0,0,51.624,2a4.1,4.1,0,0,0-4.033,4.033A2.125,2.125,0,0,0,47.7,6.9a11.269,11.269,0,0,1-8.284-4.251,4.174,4.174,0,0,0-.545,2.071A4.33,4.33,0,0,0,40.616,8.1a3.674,3.674,0,0,1-1.853-.545h0a3.983,3.983,0,0,0,3.27,3.924,3.36,3.36,0,0,1-1.09.109,1.855,1.855,0,0,1-.763-.109,4.129,4.129,0,0,0,3.815,2.834,8.229,8.229,0,0,1-5.014,1.744A3.018,3.018,0,0,1,38,15.951a10.288,10.288,0,0,0,6.213,1.962" transform="translate(-38 0.452)" fill="#fff" fill-rule="evenodd"/>
+        </g>
+        <g id="Component_13_1-2" data-name="Component 13 – 1" transform="translate(0 0.001)">
+          <path id="Path_3-2" data-name="Path 3" d="M9.81,1.744a30.078,30.078,0,0,1,3.924.109,5.055,5.055,0,0,1,1.853.327,3.828,3.828,0,0,1,1.853,1.853,5.055,5.055,0,0,1,.327,1.853c0,.981.109,1.308.109,3.924a30.078,30.078,0,0,1-.109,3.924,5.055,5.055,0,0,1-.327,1.853,3.828,3.828,0,0,1-1.853,1.853,5.055,5.055,0,0,1-1.853.327c-.981,0-1.308.109-3.924.109a30.078,30.078,0,0,1-3.924-.109,5.055,5.055,0,0,1-1.853-.327A3.828,3.828,0,0,1,2.18,15.586a5.055,5.055,0,0,1-.327-1.853c0-.981-.109-1.308-.109-3.924a30.078,30.078,0,0,1,.109-3.924A5.055,5.055,0,0,1,2.18,4.033a3.915,3.915,0,0,1,.763-1.09,1.843,1.843,0,0,1,1.09-.763,5.055,5.055,0,0,1,1.853-.327A30.078,30.078,0,0,1,9.81,1.744M9.81,0A32.2,32.2,0,0,0,5.777.109a6.729,6.729,0,0,0-2.4.436,4.267,4.267,0,0,0-1.744,1.09A4.267,4.267,0,0,0,.545,3.379a4.966,4.966,0,0,0-.436,2.4A32.2,32.2,0,0,0,0,9.81a32.2,32.2,0,0,0,.109,4.033,6.729,6.729,0,0,0,.436,2.4,4.267,4.267,0,0,0,1.09,1.744,4.267,4.267,0,0,0,1.744,1.09,6.729,6.729,0,0,0,2.4.436,32.2,32.2,0,0,0,4.033.109,32.2,32.2,0,0,0,4.033-.109,6.729,6.729,0,0,0,2.4-.436,4.573,4.573,0,0,0,2.834-2.834,6.729,6.729,0,0,0,.436-2.4c0-1.09.109-1.417.109-4.033a32.2,32.2,0,0,0-.109-4.033,6.729,6.729,0,0,0-.436-2.4,4.267,4.267,0,0,0-1.09-1.744A4.267,4.267,0,0,0,16.24.545a6.729,6.729,0,0,0-2.4-.436A32.2,32.2,0,0,0,9.81,0m0,4.8A4.933,4.933,0,0,0,4.8,9.81,5.014,5.014,0,1,0,9.81,4.8m0,8.284A3.211,3.211,0,0,1,6.54,9.81,3.211,3.211,0,0,1,9.81,6.54a3.211,3.211,0,0,1,3.27,3.27,3.211,3.211,0,0,1-3.27,3.27m5.232-9.7a1.2,1.2,0,1,0,1.2,1.2,1.21,1.21,0,0,0-1.2-1.2" fill="#fff" fill-rule="evenodd"/>
+        </g>
+      </g>
+      <text id="THOMSEN_GROUP-2" data-name="THOMSEN GROUP" transform="translate(79 2539)" fill="#fff" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.074em"><tspan x="0" y="0">THOMSEN GROUP</tspan></text>
+      <text id="_262-652-2662" data-name="262-652-2662" transform="translate(329 2518)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">262-652-2662</tspan></text>
+      <text id="_1303_43rd_Street_Kenosha_WI_53140" data-name="1303 43rd Street
+Kenosha, WI 53140" transform="translate(329 2550)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="0">1303 43rd Street</tspan><tspan x="0" y="20">Kenosha, WI 53140</tspan></text>
+      <text id="CONTACT-2" data-name="CONTACT" transform="translate(639 2505)" fill="#fff" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">CONTACT</tspan></text>
+      <text id="PRODUCT" transform="translate(639 2573)" fill="#fff" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">PRODUCT</tspan></text>
+      <text id="ABOUT-2" data-name="ABOUT" transform="translate(639 2539)" fill="#fff" font-size="16" font-family="Roboto-Medium, Roboto" font-weight="500"><tspan x="0" y="0">ABOUT</tspan></text>
+    </g>
+    <g id="Group_31" data-name="Group 31">
+      <g id="Group_11" data-name="Group 11" transform="translate(225 249)">
+        <g id="Group_4-4" data-name="Group 4" transform="translate(0 0)">
+          <rect id="Video-4" data-name="Video" width="467" height="381" transform="translate(0)" fill="#e6f1ff"/>
+        </g>
+      </g>
+      <g id="Group_2" data-name="Group 2" transform="translate(430.133 412.414)">
+        <path id="Path_203" data-name="Path 203" d="M3704.849,925.425l19.131-26.336,13.061,17.97,20.952-29.616,26.723,37.982Z" transform="translate(-3704.849 -871.253)" fill="#2699fb"/>
+        <circle id="Ellipse_5" data-name="Ellipse 5" cx="7.781" cy="7.781" r="7.781" transform="translate(0.213)" fill="#2699fb"/>
+      </g>
+    </g>
+    <g id="Group_36" data-name="Group 36" transform="translate(0 409)">
+      <g id="Group_11-2" data-name="Group 11" transform="translate(225 249)">
+        <g id="Group_4-5" data-name="Group 4" transform="translate(0 0)">
+          <rect id="Video-5" data-name="Video" width="467" height="381" transform="translate(0)" fill="#e6f1ff"/>
+        </g>
+      </g>
+      <g id="Group_2-2" data-name="Group 2" transform="translate(430.133 412.414)">
+        <path id="Path_203-2" data-name="Path 203" d="M3704.849,925.425l19.131-26.336,13.061,17.97,20.952-29.616,26.723,37.982Z" transform="translate(-3704.849 -871.253)" fill="#2699fb"/>
+        <circle id="Ellipse_5-2" data-name="Ellipse 5" cx="7.781" cy="7.781" r="7.781" transform="translate(0.213)" fill="#2699fb"/>
+      </g>
+    </g>
+    <g id="Group_32" data-name="Group 32" transform="translate(502)">
+      <g id="Group_11-3" data-name="Group 11" transform="translate(225 249)">
+        <g id="Group_4-6" data-name="Group 4" transform="translate(0 0)">
+          <rect id="Video-6" data-name="Video" width="467" height="381" transform="translate(0)" fill="#e6f1ff"/>
+        </g>
+      </g>
+      <g id="Group_2-3" data-name="Group 2" transform="translate(430.133 412.414)">
+        <path id="Path_203-3" data-name="Path 203" d="M3704.849,925.425l19.131-26.336,13.061,17.97,20.952-29.616,26.723,37.982Z" transform="translate(-3704.849 -871.253)" fill="#2699fb"/>
+        <circle id="Ellipse_5-3" data-name="Ellipse 5" cx="7.781" cy="7.781" r="7.781" transform="translate(0.213)" fill="#2699fb"/>
+      </g>
+    </g>
+    <g id="Group_35" data-name="Group 35" transform="translate(502 409)">
+      <g id="Group_11-4" data-name="Group 11" transform="translate(225 249)">
+        <g id="Group_4-7" data-name="Group 4" transform="translate(0 0)">
+          <rect id="Video-7" data-name="Video" width="467" height="381" transform="translate(0)" fill="#e6f1ff"/>
+        </g>
+      </g>
+      <g id="Group_2-4" data-name="Group 2" transform="translate(430.133 412.414)">
+        <path id="Path_203-4" data-name="Path 203" d="M3704.849,925.425l19.131-26.336,13.061,17.97,20.952-29.616,26.723,37.982Z" transform="translate(-3704.849 -871.253)" fill="#2699fb"/>
+        <circle id="Ellipse_5-4" data-name="Ellipse 5" cx="7.781" cy="7.781" r="7.781" transform="translate(0.213)" fill="#2699fb"/>
+      </g>
+    </g>
+    <g id="Group_33" data-name="Group 33" transform="translate(1003)">
+      <g id="Group_11-5" data-name="Group 11" transform="translate(225 249)">
+        <g id="Group_4-8" data-name="Group 4" transform="translate(0 0)">
+          <rect id="Video-8" data-name="Video" width="467" height="380" fill="#e6f1ff"/>
+        </g>
+      </g>
+      <g id="Group_2-5" data-name="Group 2" transform="translate(430.133 411.914)">
+        <path id="Path_203-5" data-name="Path 203" d="M3704.849,925.425l19.131-26.336,13.061,17.97,20.952-29.616,26.723,37.982Z" transform="translate(-3704.849 -871.253)" fill="#2699fb"/>
+        <circle id="Ellipse_5-5" data-name="Ellipse 5" cx="7.781" cy="7.781" r="7.781" transform="translate(0.213)" fill="#2699fb"/>
+      </g>
+    </g>
+    <g id="Group_34" data-name="Group 34" transform="translate(1003 409)">
+      <g id="Group_11-6" data-name="Group 11" transform="translate(225 249)">
+        <g id="Group_4-9" data-name="Group 4" transform="translate(0 0)">
+          <rect id="Video-9" data-name="Video" width="467" height="381" transform="translate(0)" fill="#e6f1ff"/>
+        </g>
+      </g>
+      <g id="Group_2-6" data-name="Group 2" transform="translate(430.133 412.414)">
+        <path id="Path_203-6" data-name="Path 203" d="M3704.849,925.425l19.131-26.336,13.061,17.97,20.952-29.616,26.723,37.982Z" transform="translate(-3704.849 -871.253)" fill="#2699fb"/>
+        <circle id="Ellipse_5-6" data-name="Ellipse 5" cx="7.781" cy="7.781" r="7.781" transform="translate(0.213)" fill="#2699fb"/>
+      </g>
+    </g>
+    <path id="Path_204" data-name="Path 204" d="M0,0H467V63.76H0Z" transform="translate(225 566.24)" fill="#2699fb"/>
+    <g id="CTA" transform="translate(321 587.111)">
+      <text id="STYLE_20" data-name="STYLE 20" transform="translate(139 17.889)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-34.855" y="0">STYLE 20</tspan></text>
+    </g>
+    <path id="Path_205" data-name="Path 205" d="M0,0H467V63.76H0Z" transform="translate(727 565.24)" fill="#2699fb"/>
+    <path id="Path_206" data-name="Path 206" d="M0,0H467V63.76H0Z" transform="translate(1228 565.24)" fill="#2699fb"/>
+    <path id="Path_207" data-name="Path 207" d="M0,0H469.5V63.76H0Z" transform="translate(726 979.24)" fill="#2699fb"/>
+    <path id="Path_208" data-name="Path 208" d="M0,0H466.5V63.76H0Z" transform="translate(1228.5 978.24)" fill="#2699fb"/>
+    <path id="Path_209" data-name="Path 209" d="M0,0H467V63.76H0Z" transform="translate(225 979.62)" fill="#2699fb"/>
+    <g id="CTA-2" data-name="CTA" transform="translate(821.5 586.111)">
+      <text id="STYLE_30" data-name="STYLE 30" transform="translate(139 17.889)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-34.855" y="0">STYLE 30</tspan></text>
+    </g>
+    <g id="CTA-3" data-name="CTA" transform="translate(1325 586.111)">
+      <text id="STYLE_40" data-name="STYLE 40" transform="translate(139 17.889)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-34.855" y="0">STYLE 40</tspan></text>
+    </g>
+    <g id="CTA-4" data-name="CTA" transform="translate(821.5 1000.111)">
+      <text id="STYLE_60" data-name="STYLE 60" transform="translate(139 17.889)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-34.855" y="0">STYLE 60</tspan></text>
+    </g>
+    <g id="CTA-5" data-name="CTA" transform="translate(1325.5 998.111)">
+      <text id="STYLE_70" data-name="STYLE 70" transform="translate(139 17.889)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-34.855" y="0">STYLE 70</tspan></text>
+    </g>
+    <g id="CTA-6" data-name="CTA" transform="translate(318 1000.491)">
+      <text id="STYLE_50" data-name="STYLE 50" transform="translate(139 17.889)" fill="#fff" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-34.855" y="0">STYLE 50</tspan></text>
+    </g>
+  </g>
+</svg>
